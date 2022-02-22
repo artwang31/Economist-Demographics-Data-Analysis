@@ -7,7 +7,9 @@ Human Development Index relative to their Corruption Perception Index.
 
 The visualization implies that the higher a country's GDP, the lower the corruption, and therefore correlates to a higher Human Development Index.
 
-![Visualization 1](Corruption-Perception-&-Human-Development.pdf)
+![Corruption-Perception-&-Human-Development](https://github.com/artwang31/Economist-Demographics-Data-Analysis/blob/master/Corruption-Perception-%26-Human-Development.pdf)
+
+
 
 Data borrowed from: https://udemy.com
 Cancel changes
